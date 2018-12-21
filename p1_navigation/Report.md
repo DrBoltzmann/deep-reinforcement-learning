@@ -12,8 +12,6 @@
 
 This project considers the application of deep reinforcement learning to the colleciton of bananas as an agent navigates a square geometry world space.
 
-![Trained Agent][image1]
-
 #### Rewards and Goals
 A reward of +1 is awarded when a yellow banana has been collected, and a reward of -1 is awared for a blue banana. The goal is for the agent to collect as many yellow bananas as possible and avoid blue bananas.
 
